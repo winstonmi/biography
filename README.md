@@ -1,5 +1,5 @@
-1. Mini Project 1 - Who Inspires You
-​ Create a biography page for someone you find inspiring and host it on Github Pages. ​
+#Mini Project 1 - Who Inspires You
+###Create a biography page for someone you find inspiring and host it on Github Pages. ​
 
 Steps.
 
