@@ -21,4 +21,5 @@ Steps.
     n. footer
 3. Link to an external style sheet and include a CSS reset file, so that all browser default formatting is removed. Now add styling for all of the elements you've created above.
 4. Add some additional styles using class and id selectors to customize your page further.
-​ This project can be as safe or ambitious as you like. Feel free to try different page layouts such as columns and grids. Try to create a stylesheet that you can reuse on future project.
+
+This project can be as safe or ambitious as you like. Feel free to try different page layouts such as columns and grids. Try to create a stylesheet that you can reuse on future project.
